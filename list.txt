@@ -1,0 +1,3 @@
+potato-50
+tomato-70
+apple-150
